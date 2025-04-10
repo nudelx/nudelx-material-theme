@@ -14,8 +14,7 @@ Welcome to **Dark Beauty** — a sleek, modern, and immersive theme inspired by 
 
 > _A glimpse of the dark side..._
 
-![Theme Preview](img/preview.png)  
-_(Don't forget to add your own screenshot!)_
+![Theme Preview](img/preview.png)
 
 ## 🛠️ Installation
 
