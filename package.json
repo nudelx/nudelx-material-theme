@@ -1,0 +1,38 @@
+{
+  "name": "nudelx-material-theme",
+  "displayName": "Nudelx Material Theme",
+  "description": "A beautiful dark theme inspired by Material Design",
+  "version": "1.0.0",
+  "publisher": "nudelx",
+  "icon": "icons/theme-icon.png",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nudelx Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nudelx-material.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nudelx/nudelx-material-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "material",
+    "vscode",
+    "color-theme"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/vscode": "^1.99.1"
+  }
+}
