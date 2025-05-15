@@ -2,11 +2,11 @@
   "name": "nudelx-material-theme",
   "displayName": "Nudelx Material Theme",
   "description": "A beautiful dark theme inspired by Material Design",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "nudelx",
   "icon": "icons/theme-icon.png",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.95.0"
   },
   "categories": [
     "Themes"
@@ -33,6 +33,6 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@types/vscode": "^1.99.1"
+    "@types/vscode": "^1.95.1"
   }
 }
